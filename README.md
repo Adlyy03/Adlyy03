@@ -22,10 +22,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Adlyy03&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 📫 Kontak
-- Email: emailkamu@gmail.com
-- Instagram: @usernamekamu
+- Email: adlimuhamad358@gmail.com
+- Instagram: @zyrvox_
